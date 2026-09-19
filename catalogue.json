@@ -6,7 +6,7 @@
       "name": "DeebPlus",
       "repo": "https://github.com/deeb-addon-emporium/DeebPlus",
       "description": "Quality of life bundle for WoW Forever: auto quest accept and turn-in, junk selling, fog off, tooltip on the mouse. /dp for settings.",
-      "version": "1.11"
+      "version": "1.12"
     },
     {
       "name": "ChatEmotes",
@@ -18,25 +18,25 @@
       "name": "DungeonLoot",
       "repo": "https://github.com/deeb-addon-emporium/DungeonLoot",
       "description": "Item list from loot you see, gear you own and AtlasLoot's classic dungeons. /dl to open.",
-      "version": "1.11"
+      "version": "1.12"
     },
     {
       "name": "GloveMill",
       "repo": "https://github.com/deeb-addon-emporium/GloveMill",
       "description": "Buys any item you name, or a preset ilvl bracket of green weapons/armor, under a price cap (one per click); disenchants them (one per click); tallies mats and assumed profit.",
-      "version": "1.11"
+      "version": "1.12"
     },
     {
       "name": "LayerProbe",
       "repo": "https://github.com/deeb-addon-emporium/LayerProbe",
       "description": "Watches creature GUIDs to find your layer/shard id. /lp for the verdict, /lp reset to clear.",
-      "version": "1.11"
+      "version": "1.12"
     },
     {
       "name": "QuestRewards",
       "repo": "https://github.com/deeb-addon-emporium/QuestRewards",
       "description": "Quest rewards you can plan for, including quests you cannot take yet. /qr to open.",
-      "version": "1.11"
+      "version": "1.12"
     },
     {
       "name": "RangeNum",
