@@ -14,7 +14,7 @@ Classic Era, TBC or retail, and it is not meant to.
 ## The addons
 
 See `catalogue.json` for the machine-readable list. Every addon lives at
-`https://github.com/deebs-addon-emporium/<Name>`.
+`https://github.com/deeb-addon-emporium/<Name>`.
 
 ## For Mathew
 

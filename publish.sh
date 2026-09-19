@@ -2,7 +2,7 @@
 # publish.sh <AddonName>  — push one WoW Forever addon to its GitHub repo and cut a release.
 # Reads ## Version from the .toc. Same version already released => no-op.
 set -euo pipefail
-ORG="${EMPORIUM_ORG:-deebs-addon-emporium}"
+ORG="${EMPORIUM_ORG:-deeb-addon-emporium}"
 ADDONS="${EMPORIUM_ADDONS:-$HOME/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_beta_/Interface/AddOns}"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 name="${1:?addon name}"

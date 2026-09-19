@@ -4,67 +4,67 @@
   "addons": [
     {
       "name": "AutoQuest",
-      "repo": "https://github.com/deebs-addon-emporium/AutoQuest",
+      "repo": "https://github.com/deeb-addon-emporium/AutoQuest",
       "description": "Auto-accepts quests and turns them in; never picks your reward. Minimap button, /aq config for settings.",
       "version": "1.1"
     },
     {
       "name": "ChatEmotes",
-      "repo": "https://github.com/deebs-addon-emporium/ChatEmotes",
+      "repo": "https://github.com/deeb-addon-emporium/ChatEmotes",
       "description": "Twitch emote images in chat - type Kappa or LUL and the picture shows. /ce to toggle.",
       "version": "1.0"
     },
     {
       "name": "DungeonLoot",
-      "repo": "https://github.com/deebs-addon-emporium/DungeonLoot",
+      "repo": "https://github.com/deeb-addon-emporium/DungeonLoot",
       "description": "Item list from loot you see, gear you own and AtlasLoot's classic dungeons. /dl to open.",
       "version": "1.1"
     },
     {
       "name": "FiveSecondRule",
-      "repo": "https://github.com/deebs-addon-emporium/FiveSecondRule",
+      "repo": "https://github.com/deeb-addon-emporium/FiveSecondRule",
       "description": "A bar that sweeps across your mana bar for 5 s after a mana-costing spell. When it is gone, regen is back. /fsr to test, /fsr reset to re-anchor.",
       "version": "1.0"
     },
     {
       "name": "GloveMill",
-      "repo": "https://github.com/deebs-addon-emporium/GloveMill",
+      "repo": "https://github.com/deeb-addon-emporium/GloveMill",
       "description": "Buys any item you name under a price cap (one per click), disenchants it (one per click), tallies the mats and assumed profit. Minimap button; /gm config.",
       "version": "1.2"
     },
     {
       "name": "LayerProbe",
-      "repo": "https://github.com/deebs-addon-emporium/LayerProbe",
+      "repo": "https://github.com/deeb-addon-emporium/LayerProbe",
       "description": "Watches creature GUIDs to find your layer/shard id. /lp for the verdict, /lp reset to clear.",
       "version": "1.1"
     },
     {
       "name": "LowVendorHighlight",
-      "repo": "https://github.com/deebs-addon-emporium/LowVendorHighlight",
+      "repo": "https://github.com/deeb-addon-emporium/LowVendorHighlight",
       "description": "Outlines the bag slot whose item the vendor pays the least for. /lvh toggles, /lvhd dumps values.",
       "version": "1.0"
     },
     {
       "name": "QuestRewards",
-      "repo": "https://github.com/deebs-addon-emporium/QuestRewards",
+      "repo": "https://github.com/deeb-addon-emporium/QuestRewards",
       "description": "Quest rewards you can plan for, including quests you cannot take yet. /qr to open.",
       "version": "1.1"
     },
     {
       "name": "RaidStyleParty",
-      "repo": "https://github.com/deebs-addon-emporium/RaidStyleParty",
+      "repo": "https://github.com/deeb-addon-emporium/RaidStyleParty",
       "description": "Forces raid-style (compact) party frames on every login.",
       "version": "1.0"
     },
     {
       "name": "RangeNum",
-      "repo": "https://github.com/deebs-addon-emporium/RangeNum",
+      "repo": "https://github.com/deeb-addon-emporium/RangeNum",
       "description": "Big range number for hunters. /rn to toggle lock.",
       "version": "1.0"
     },
     {
       "name": "RecipeAtlas",
-      "repo": "https://github.com/deebs-addon-emporium/RecipeAtlas",
+      "repo": "https://github.com/deeb-addon-emporium/RecipeAtlas",
       "description": "Browse every crafting recipe this client knows, with reagents and sources. /ra to open.",
       "version": "1.0"
     }
