@@ -24,7 +24,7 @@
       "name": "GloveMill",
       "repo": "https://github.com/deeb-addon-emporium/GloveMill",
       "description": "Buys any item you name, or a preset ilvl bracket of green weapons/armor, under a price cap (one per click); disenchants them (one per click); tallies mats and assumed profit.",
-      "version": "1.15"
+      "version": "1.16"
     },
     {
       "name": "LayerProbe",
