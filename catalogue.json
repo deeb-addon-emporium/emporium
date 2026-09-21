@@ -9,6 +9,12 @@
       "version": "1.19"
     },
     {
+      "name": "DeebTracker",
+      "repo": "https://github.com/deeb-addon-emporium/DeebTracker",
+      "description": "Logs everything that happens to your characters (quests, XP, kills, levels, zones, deaths, gold) with timestamps, for WoW Forever route data. /dt for status.",
+      "version": "1.0"
+    },
+    {
       "name": "ChatEmotes",
       "repo": "https://github.com/deeb-addon-emporium/ChatEmotes",
       "description": "Twitch emote images in chat - type Kappa or LUL and the picture shows. /ce to toggle.",
