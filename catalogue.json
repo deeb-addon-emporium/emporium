@@ -6,7 +6,7 @@
       "name": "DeebPlus",
       "repo": "https://github.com/deeb-addon-emporium/DeebPlus",
       "description": "Quality of life bundle for WoW Forever: auto quest accept and turn-in, junk selling, fog off, tooltip on the mouse. /dp for settings.",
-      "version": "1.20"
+      "version": "1.21"
     },
     {
       "name": "DeebTracker",
@@ -30,7 +30,7 @@
       "name": "GloveMill",
       "repo": "https://github.com/deeb-addon-emporium/GloveMill",
       "description": "Buys any item you name, or a preset ilvl bracket of green weapons/armor, under a price cap (one per click); disenchants them (one per click); tallies mats and assumed profit.",
-      "version": "1.21"
+      "version": "1.22"
     },
     {
       "name": "LayerProbe",
