@@ -55,6 +55,12 @@
       "repo": "https://github.com/deeb-addon-emporium/RecipeAtlas",
       "description": "Browse every crafting recipe this client knows, with reagents and sources. /ra to open.",
       "version": "1.0"
+    },
+    {
+      "name": "SpyLite",
+      "repo": "https://github.com/deeb-addon-emporium/SpyLite",
+      "description": "Enemy player alert for WoW Forever. Nameplates, target and mouseover only (the combat log is closed to addons here). /spy for the window.",
+      "version": "1.0"
     }
   ]
 }
