@@ -61,6 +61,12 @@
       "repo": "https://github.com/deeb-addon-emporium/SpyLite",
       "description": "Enemy player alert for WoW Forever. Nameplates, target and mouseover only (the combat log is closed to addons here). /spy for the window.",
       "version": "1.1"
+    },
+    {
+      "name": "PlateDefensives",
+      "repo": "https://github.com/deeb-addon-emporium/PlateDefensives",
+      "description": "Enemy defensive buffs as icons with timers above their nameplates. /pd for settings.",
+      "version": "1.0"
     }
   ]
 }
