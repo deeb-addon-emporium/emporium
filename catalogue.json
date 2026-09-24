@@ -67,6 +67,12 @@
       "repo": "https://github.com/deeb-addon-emporium/PlateDefensives",
       "description": "Enemy defensive buffs as icons with timers above their nameplates. /pd for settings.",
       "version": "1.0"
+    },
+    {
+      "name": "DeebRings",
+      "repo": "https://github.com/deeb-addon-emporium/DeebRings",
+      "description": "Radial action rings. Hold a key, a ring of spells/items/macros opens at your mouse, release over one to use it. /rings for settings.",
+      "version": "1.0"
     }
   ]
 }
