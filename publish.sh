@@ -29,7 +29,8 @@ cd "$repo"
 # mirror the addon folder: everything except backups and saved-var junk
 find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
 rsync -a --exclude '*.bak' --exclude '*.orig' --exclude '.DS_Store' "$src/" "$repo/"
-cp "$HERE/templates/LICENSE" LICENSE
+# an addon that ships its own LICENSE (e.g. a CC BY-NC-SA derivative) keeps it; the rest get MIT
+[ -f "$src/LICENSE" ] || cp "$HERE/templates/LICENSE" LICENSE
 sed -e "s|{{NAME}}|$name|g" -e "s|{{NOTES}}|$notes|g" -e "s|{{ORG}}|$ORG|g" -e "s|{{VERSION}}|$ver|g" \
   "$HERE/templates/README.md" > README.md
 git add -A

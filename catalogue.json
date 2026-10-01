@@ -73,6 +73,13 @@
       "repo": "https://github.com/deeb-addon-emporium/DeebRings",
       "description": "Radial action rings. Hold a key, a ring of spells/items/macros opens at your mouse, release over one to use it. /rings for settings.",
       "version": "1.0"
+    },
+    {
+      "name": "DuoFork",
+      "repo": "https://github.com/deeb-addon-emporium/DuoFork",
+      "description": "Six RestedXP guides for a WoW Forever group route, 11 to 21: Night Elf duo fork, Loch Modan, Hall of Thanes, Defias chain, Ruins of Lordaeron, Redridge. Needs RestedXP Guides. /dfd for status.",
+      "version": "1.2",
+      "license": "CC BY-NC-SA 4.0 (adapts RestedXP guide steps)"
     }
   ]
 }
