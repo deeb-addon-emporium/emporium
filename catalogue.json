@@ -5,14 +5,14 @@
     {
       "name": "DeebPlus",
       "repo": "https://github.com/deeb-addon-emporium/DeebPlus",
-      "description": "Quality of life bundle for WoW Forever: auto quest accept and turn-in, junk selling, fog off, tooltip on the mouse. /dp for settings.",
-      "version": "1.31"
+      "description": "Quality of life bundle for WoW Forever: auto quest accept and turn-in, junk selling, fast loot, death skips, new-character setup. /dp for settings.",
+      "version": "1.44"
     },
     {
       "name": "DeebTracker",
       "repo": "https://github.com/deeb-addon-emporium/DeebTracker",
       "description": "Logs everything that happens to your characters (quests, XP, kills, levels, zones, deaths, gold) with timestamps, for WoW Forever route data. /dt for status.",
-      "version": "1.2"
+      "version": "1.6"
     },
     {
       "name": "ChatEmotes",
@@ -77,8 +77,8 @@
     {
       "name": "DuoFork",
       "repo": "https://github.com/deeb-addon-emporium/DuoFork",
-      "description": "Six RestedXP guides for a WoW Forever group route, 11 to 21: Night Elf duo fork, Loch Modan, Hall of Thanes, Defias chain, Ruins of Lordaeron, Redridge. Needs RestedXP Guides. /dfd for status.",
-      "version": "1.2",
+      "description": "Seven RestedXP guides for a WoW Forever group route, 11 to 23: Night Elf duo fork, Loch Modan, Hall of Thanes, Defias chain, Ruins of Lordaeron, Redridge, Duskwood to Wailing Caverns. Bronze Tube reminders for Look to the Stars along the way. Needs RestedXP Guides. /dfd for status.",
+      "version": "1.3",
       "license": "CC BY-NC-SA 4.0 (adapts RestedXP guide steps)"
     }
   ]
